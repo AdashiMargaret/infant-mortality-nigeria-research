@@ -80,30 +80,7 @@
 
 ---
 
-## 💡 Policy Priority Matrix
-
-### High Impact × High Feasibility = 🎯 **PRIORITY INTERVENTIONS**
-
 ```
-HIGH IMPACT ⬆️
-    │
-    │  🎯 Birth Spacing     🎯 Basic Education
-    │     Programs             Expansion  
-    │
-    │  💰 Microfinance     📱 Mobile Health
-    │     Programs             Platforms
-    │
-    └─────────────────────────────────────→ HIGH FEASIBILITY
-```
-
-### Implementation Roadmap
-```
-📅 IMMEDIATE (0-1 year):  Family planning education, community health workers
-📅 SHORT-TERM (1-3 years): Girls' education programs, maternal nutrition  
-📅 LONG-TERM (3-10 years): Poverty reduction, healthcare system strengthening
-```
-
----
 
 ## 🔬 Research Excellence Indicators
 
