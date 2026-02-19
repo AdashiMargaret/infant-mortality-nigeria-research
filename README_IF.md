@@ -157,23 +157,23 @@ install.packages(c("tidyverse", "haven", "blorr", "car", "lmtest",
 
 | **Wealth Quintile** | **Sample Size** | **Mortality Rate** | **Adjusted OR** | **vs Poorest** |
 |--------------------|-----------------|-------------------|----------------|----------------|
-| **Poorest** 💔 | 25,849 | **10.3%** | **1.00** | — |
+| **Poorest* | 25,849 | **10.3%** | **1.00** | — |
 | **Poorer** | 21,885 | **10.1%** | **0.95** | 5% ⬇️ |
 | **Middle** | 15,745 | **8.7%** | **0.72** | 28% ⬇️ |
 | **Richer** | 10,652 | **6.9%** | **0.52** | 48% ⬇️ |
-| **Richest** 💚 | 5,979 | **4.9%** | **0.33** | **67% ⬇️** |
+| **Richest**  | 5,979 | **4.9%** | **0.33** | **67% ⬇️** |
 
 ### ⏰ Birth Spacing Impact
 
 | **Birth Interval** | **Sample Size** | **Mortality Rate** | **Adjusted OR** | **Interpretation** |
 |-------------------|-----------------|-------------------|----------------|-------------------|
-| **≤ 11 months** ⚠️ | 1,406 | **20.4%** | **1.00** | **Highest Risk** |
-| **1-2 years** ⚡ | 20,435 | **12.1%** | **0.54** | **46% Lower Risk** |
-| **> 2 years** ✅ | 40,900 | **6.5%** | **0.27** | **73% Lower Risk** |
+| **≤ 11 months**  | 1,406 | **20.4%** | **1.00** | **Highest Risk** |
+| **1-2 years**  | 20,435 | **12.1%** | **0.54** | **46% Lower Risk** |
+| **> 2 years** | 40,900 | **6.5%** | **0.27** | **73% Lower Risk** |
 
 **📋 [View Complete Results Tables →](visual_results_tables.md)**
 
-## 🎯 Career Applications
+##  Career Applications
 
 This research demonstrates expertise valuable for:
 
@@ -217,10 +217,9 @@ This research demonstrates expertise valuable for:
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Adashi Odama  
 **Institution**: Washington University  
-**Contact**: [Your Email]  
-**LinkedIn**: [Your LinkedIn Profile]  
+**Contact**: odamaadashi@gmail.com
 **Date**: April 2022
 
 *This analysis contributes to the global effort to reduce preventable infant deaths through evidence-based public health interventions and health equity promotion.*
