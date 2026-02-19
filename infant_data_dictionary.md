@@ -211,9 +211,10 @@ project/
 
 ## Contact Information and Metadata
 
-**Principal Investigator**: [Student Name]  
-**Institution**: Washington University Brown School  
-**Analysis Date**: April 2022  
+**Author**: Adashi Odama  
+**Institution**: Washington University  
+**Contact**: odamaadashi@gmail.com
+**Date**: April 2022  
 **Last Updated**: `r Sys.Date()`  
 **Version**: 1.0  
 
