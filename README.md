@@ -217,10 +217,9 @@ This research demonstrates expertise valuable for:
 
 ---
 
-**Author**: [Your Name]  
-**Institution**: Washington University  
-**Contact**: [Your Email]  
-**LinkedIn**: [Your LinkedIn Profile]  
+**Author**: Adashi Odama 
+**Institution**: Washington University in St. Louis
+**Contact**: odamaadashi@gmail.com
 **Date**: April 2022
 
 *This analysis contributes to the global effort to reduce preventable infant deaths through evidence-based public health interventions and health equity promotion.*
